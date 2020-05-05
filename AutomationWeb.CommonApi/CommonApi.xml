@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<doc>
+  <assembly>
+    <name>AutomationWeb.Common.Api</name>
+  </assembly>
+  <members>
+    <member name="M:AutomationWeb.Common.Api.Controllers.OrderController.GetAllOrderRecords">
+      <summary>
+        Get all order records
+      </summary>
+      <returns></returns>
+    </member>
+    <member name="M:AutomationWeb.Common.Api.Controllers.OrderController.GetAllOrderRecordTypes">
+      <summary>
+        Get all order record types
+      </summary>
+      <returns></returns>
+    </member>
+    <member name="M:AutomationWeb.Common.Api.Controllers.OrderController.Get">
+      <summary>
+        Test get
+      </summary>
+      <returns></returns>
+    </member>
+  </members>
+</doc>
